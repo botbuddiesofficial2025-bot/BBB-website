@@ -373,7 +373,7 @@ export const coFounders = [
   },
   {
     name: "Ayman Awosaf Islam",
-    role: "Co-Founder & Director",
+    role: "Director",
     email: "iamayman2019@gmail.com",
     wing: "PRF",
     wingName: WING_LABELS.PRF,
