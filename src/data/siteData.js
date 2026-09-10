@@ -326,7 +326,7 @@ export const founder = {
 export const coFounders = [
   // {
   //   name: "Md. Tofazzal Ahmed Sany",
-  //   role: "Co-Founder & Director, TRL",
+  //   role: "Co-Founder & Co-Founder & Director, TRL",
   //   email: "tofazzalahmedsany@gmail.com",
   //   image: "/sani.png",
   //   bio: "Short bio goes here. Keep this editable.",
@@ -334,13 +334,13 @@ export const coFounders = [
   //   facebook: "#",
   //   github: "",
   //   website: "",
-  // },
+   },
 ];
 
-export const directors = [
+export const coFounders = [
   {
     name: "Md. Tofazzal Ahmed Sany",
-    role: "Director",
+    role: "Co-Founder & Director",
     email: "tofazzalahmedsany@gmail.com",
     wing: "TRL",
     wingName: WING_LABELS.TRL,
@@ -351,7 +351,7 @@ export const directors = [
   },
   {
     name: "Mohammad Tanjim Rahman Talha",
-    role: "Director",
+    role: "Co-Founder & Director",
     email: "rahmantanjim0008@gmail.com",
     wing: "MM",
     wingName: WING_LABELS.MM,
@@ -362,7 +362,7 @@ export const directors = [
   },
   {
     name: "Aditya Chanda",
-    role: "Director",
+    role: "Co-Founder & Director",
     email: "aadityaa3555@gmail.com",
     wing: "CEM",
     wingName: WING_LABELS.CEM,
@@ -373,7 +373,7 @@ export const directors = [
   },
   {
     name: "Ayman Awosaf Islam",
-    role: "Director",
+    role: "Co-Founder & Director",
     email: "iamayman2019@gmail.com",
     wing: "PRF",
     wingName: WING_LABELS.PRF,
@@ -384,7 +384,7 @@ export const directors = [
   },
   {
     name: "Ahnaf Faiaz",
-    role: "Director",
+    role: "Co-Founder & Director",
     email: "ahnaffaiaz2727@gmail.com",
     wing: "",
     wingName: "",
